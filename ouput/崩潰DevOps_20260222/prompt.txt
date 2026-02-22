@@ -1,0 +1,83 @@
+1. A tired young male DevOps engineer in dark hoodie, staring blankly at multiple glowing monitors showing "PIPELINE FAILED" in red, sitting at a messy desk on Monday morning, simple flat pastel background, cute chibi proportion, expressive hollow eyes, consistent with ref.png art style of soft brush strokes and muted colors, LINE sticker format, white background, no text.
+
+2. A chibi DevOps engineer covering his face with both hands in despair, a deploy terminal showing "ROLLBACK" behind him, simple light gray background, cute exaggerated expression of dismay, flat illustration style matching ref.png soft pastel tones and clean linework, LINE sticker format, white background, no text.
+
+3. A chibi DevOps engineer with dark circles under eyes, slumped face-down on keyboard at 3AM, glowing monitor showing "PRODUCTION DOWN" alert, dark blue minimal background with small stars, matching ref.png brushwork and proportions, soft flat colors, LINE sticker format, white background, no text.
+
+4. A chibi DevOps engineer with wide shocked eyes, holding a violently buzzing smartphone showing "PagerDuty ALERT!!!", simple orange-tinted flat background, exaggerated trembling lines around phone, cute chibi style matching ref.png soft illustration aesthetic, LINE sticker format, white background, no text.
+
+5. A chibi DevOps engineer scratching head in confusion, small Docker whale icons floating around head, speech bubble showing laptop screen with "Works on my machine!", simple light blue background, matching ref.png flat pastel style with clean outlines, LINE sticker format, white background, no text.
+
+6. A chibi DevOps engineer sitting in a meeting room with a completely expressionless face, a whiteboard behind showing "5 Breaking Changes", arms crossed, simple beige flat background, deadpan expression with dot eyes, art style matching ref.png muted tones and soft brushwork, LINE sticker format, white background, no text.
+
+7. A chibi DevOps engineer sweating profusely, eyes wide, monitor behind showing "CPU: 100%", collar loosened, drops of sweat flying, simple light yellow background, panic expression, flat cute illustration style consistent with ref.png, LINE sticker format, white background, no text.
+
+8. A chibi DevOps engineer lying on the floor looking up at ceiling, surrounded by floating "CrashLoopBackOff" error messages, exhausted blank expression, pale simple background, consistent with ref.png soft pastel flat art style, LINE sticker format, white background, no text.
+
+9. A chibi DevOps engineer frantically scrolling through endless logs on a tall monitor, magnifying glass in hand, sweat drops, frustrated squinting eyes, light green minimal background, cute exaggerated expression, art style matching ref.png clean linework and muted colors, LINE sticker format, white background, no text.
+
+10. A chibi DevOps engineer with deep breath expression, finger hovering over keyboard, eyes closed in determination, terminal showing "git revert" command, calm but tense atmosphere, simple cool-toned flat background, matching ref.png brushstroke style, LINE sticker format, white background, no text.
+
+11. A chibi DevOps engineer with hair standing up in horror, database icon exploding behind, small "UPDATE without WHERE" text visible on screen, hands on cheeks Home Alone style, deep red simple background, exaggerated shocked expression, flat illustration matching ref.png style, LINE sticker format, white background, no text.
+
+12. A chibi DevOps engineer slumped in office chair, eyes glazed, a server rack behind with a small fire, "BACKUP: NEVER TESTED" on screen, simple warm gray background, defeated expression, consistent with ref.png soft muted illustration style, LINE sticker format, white background, no text.
+
+13. A chibi DevOps engineer walking to work, head down, dark thought bubble showing failed cron job logs, simple morning street silhouette background in muted tones, worried expression, art style matching ref.png soft flat pastel illustration, LINE sticker format, white background, no text.
+
+14. A chibi DevOps engineer reading Slack message on phone, forcing a strained smile with visible eye twitch, simple light purple background, slight tension lines around face, flat cute art style consistent with ref.png clean linework, LINE sticker format, white background, no text.
+
+15. A chibi DevOps engineer holding a massive AWS bill printout, completely dead eyes, mouth slightly open, simple light blue background, exaggerated long scroll of paper, flat illustration matching ref.png muted pastel tones, LINE sticker format, white background, no text.
+
+16. A chibi DevOps engineer looking at code on screen and sighing deeply, a big question mark above head, screen showing mysterious shell script, simple warm beige background, tired expression, art style matching ref.png brushwork and proportions, LINE sticker format, white background, no text.
+
+17. A chibi DevOps engineer crouching on floor hugging knees, ethernet cables unplugged around him, network icon with X mark above, simple cool gray background, dramatic expression of despair, flat pastel illustration consistent with ref.png, LINE sticker format, white background, no text.
+
+18. A chibi DevOps engineer suddenly jolting upright in cold sweat, calendar showing yesterday's date highlighted, SSL certificate expired warning on screen, simple pale background, wide panicked eyes, art style matching ref.png soft illustration style, LINE sticker format, white background, no text.
+
+19. A chibi DevOps engineer rolling eyes with three environment labels: Dev=OK green, Staging=OK green, Prod=FIRE red, standing with arms spread in disbelief, simple tricolor background, sarcastic expression, consistent with ref.png flat cute art style, LINE sticker format, white background, no text.
+
+20. A chibi DevOps engineer with forced smile helping a colleague, clock on wall showing 3 hours later, thought bubble with scream, simple warm office background, strained but polite expression, flat illustration matching ref.png brushstroke tones, LINE sticker format, white background, no text.
+
+21. A chibi DevOps engineer kneeling with hands clasped in prayer before a server rack, eyes squeezed shut, small angel server icons above, simple soft purple background, hopeful desperate expression, art style matching ref.png muted colors, LINE sticker format, white background, no text.
+
+22. A chibi DevOps engineer jolted awake in bed by PagerDuty alarm on weekend morning, pillow flying, eyes bloodshot, Sunday morning light through window, simple warm bedroom background, rage-tired expression, consistent with ref.png flat cute style, LINE sticker format, white background, no text.
+
+23. A chibi DevOps engineer smirking while typing "git push --force" on keyboard, small explosion icon on main branch symbol, simple dark background with subtle humor, slightly mischievous expression, flat illustration matching ref.png linework, LINE sticker format, white background, no text.
+
+24. A chibi DevOps engineer in a deep squat stress position, staring at a deployment progress bar at 73%, entire office watching nervously behind, simple tense atmosphere, flat pastel art style consistent with ref.png, LINE sticker format, white background, no text.
+
+25. A chibi DevOps engineer staring at a CI/CD queue timer showing 40 minutes, then a test result showing 3 seconds, arms dropped in disbelief, simple light background, dry humor expression, flat illustration matching ref.png proportions and muted tones, LINE sticker format, white background, no text.
+
+26. A chibi DevOps engineer panicking as server disk fills up with log files piling like towers around him, "DISK 100%" alert flashing, cold sweat, simple orange warning background, exaggerated overwhelmed expression, art style matching ref.png, LINE sticker format, white background, no text.
+
+27. A chibi DevOps engineer with wild hair pulling it in frustration, memory leak graph going off the chart behind, third-party library package box nearby, simple teal background, exasperated expression, consistent with ref.png flat illustration style, LINE sticker format, white background, no text.
+
+28. A chibi DevOps engineer reading a document filled with TODO comments, small cobwebs on the TODO items, tired chuckling expression, simple warm paper-toned background, flat art style matching ref.png soft brushwork, LINE sticker format, white background, no text.
+
+29. A chibi DevOps engineer tilting head confused, screen showing "403 Forbidden", holding a root access key card, simple cool blue background, puzzled expression with tilted head, flat illustration consistent with ref.png style, LINE sticker format, white background, no text.
+
+30. A chibi DevOps engineer slamming head into wall gently, dependency tree diagram spiraling behind, update arrow causing cascade of broken packages, simple light gray background, suffering expression, art style matching ref.png muted pastel tones, LINE sticker format, white background, no text.
+
+31. A chibi DevOps engineer sitting at empty desk, three empty chairs labeled "Frontend", "Backend", "PM", clock showing late evening, helpless shrug expression, simple warm office background, flat illustration matching ref.png style, LINE sticker format, white background, no text.
+
+32. A chibi DevOps engineer looking at offline testing environment terminal, developer character behind shrugging, simple split-screen background, exasperated rolled-eyes expression, flat cute art consistent with ref.png brushwork, LINE sticker format, white background, no text.
+
+33. A chibi DevOps engineer looking at blank monitoring dashboard with no data, question marks floating, "Uptime: Unknown" display, simple dark background, regretful expression, art style matching ref.png soft flat illustration, LINE sticker format, white background, no text.
+
+34. A chibi DevOps engineer raising fists triumphantly next to automation robot, then immediately deflating as "Project Cancelled" notice appears, two-panel expression from joy to despair, simple background, flat illustration matching ref.png, LINE sticker format, white background, no text.
+
+35. A chibi DevOps engineer smiling proudly telling new hire everything is stable, server rack catching fire dramatically behind, nervous sweating smile, simple office background, ironic expression, flat pastel art consistent with ref.png style, LINE sticker format, white background, no text.
+
+36. A chibi DevOps engineer holding empty budget document, looking down sadly, small SRE team members disappearing as budget cuts happen, simple cool gray background, powerless drooping expression, art style matching ref.png muted illustration, LINE sticker format, white background, no text.
+
+37. A chibi DevOps engineer watching server traffic spike graph shoot off the chart at campaign launch, hands on head in shock, servers shown as tiny overloaded characters lying flat, simple red-alert background, panic expression, flat illustration matching ref.png, LINE sticker format, white background, no text.
+
+38. A chibi DevOps engineer at desk at 4AM holding third coffee cup, eyes half-open, terminal still showing unresolved errors, room dark except monitor glow, simple night background, exhausted but persevering expression, art style matching ref.png soft tones, LINE sticker format, white background, no text.
+
+39. A chibi DevOps engineer nodding vigorously in post-mortem meeting, whiteboard showing "Action Items: Be More Careful", multiple tired team members, simple meeting room background, polite but empty nodding expression, flat illustration consistent with ref.png, LINE sticker format, white background, no text.
+
+40. A chibi DevOps engineer on Friday afternoon receiving deploy request notification, face turning green, weekend calendar visible behind, simple warm office background, dread expression, art style matching ref.png brushwork and proportions, LINE sticker format, white background, no text.
+
+41. A chibi DevOps engineer giving two thumbs up with completely hollow empty eyes, wearing DevOps/SRE badge, small icons of all responsibilities floating around (cloud, security, CI/CD, monitoring, on-call), simple flat background, dead-inside cheerful expression, consistent with ref.png flat illustration style, LINE sticker format, white background, no text.
+
+42. A cute chibi DevOps engineer portrait sticker, wearing headphones, dark hoodie, hollow tired eyes reflecting monitor light on face, simple dark blue gradient background, calm resigned expression "still here, system still running, barely", art style fully matching ref.png soft brush flat illustration with muted colors and clean lines, LINE sticker main image format, white background, no text.

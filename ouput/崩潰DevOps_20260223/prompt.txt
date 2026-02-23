@@ -1,0 +1,88 @@
+角色設定（所有 prompt 共用）：
+參考 ref.png 風格：Q版 chibi 卡通男生，棕色短髮，戴黑色大耳機，穿深藍色連帽帽T，黃色圓形光暈背景，白色粗描邊，扁平卡通風格，乾淨簡約背景，LINE 貼圖規格。
+
+---
+
+01. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, pale exhausted face staring at glowing monitor at 3AM, dark circles under eyes, yellow aura background, white speech bubble with text "Production 又爆了💥", flat cartoon style, white outline sticker, LINE sticker format, ref.png art style
+
+02. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, slamming fist on desk with angry red face, CI pipeline dashboard showing all red lights behind him, yellow aura background, white speech bubble "誰 merge 的？？🔴", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+03. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, hugging knees crouching on floor crying, Docker whale icon visible, yellow aura background, white speech bubble "Docker 你對得起我嗎🐳", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+04. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, frantically clicking mouse with sweat drops flying, kubectl terminal on screen, yellow aura background, white speech bubble "kubectl 救我啊！！⚙️", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+05. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, sweating profusely pressing rollback button with shaking hands, red alert screen, yellow aura background, white speech bubble "rollback rollback 快！🔄", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+06. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, raising laptop over head ready to smash wall, OOM Killed error on screen, yellow aura background, white speech bubble "OOM Killed 是在殺我嗎💀", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+07. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, eyes bloodshot red staring at endless log lines, exhausted expression, yellow aura background, white speech bubble "Error 5000行找不到原因👁️", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+08. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, kneeling on ground looking up to sky dramatically, server down icon, yellow aura background, white speech bubble "整個服務掛掉了救命🙏", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+09. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, trembling finger hovering over deploy button, calendar showing Friday, pale scared face, yellow aura background, white speech bubble "週五部署 再見了各位😱", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+10. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, scratching head with big question marks, Deadlock error on screen, confused expression, yellow aura background, white speech bubble "Deadlock？我做了什麼🔒", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+11. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, panicking while frantically deleting log files, disk full warning 100%, yellow aura background, white speech bubble "磁碟滿了誰的log這麼大🗑️", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+12. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, staring blankly at router with empty eyes, network graph showing 99% packet loss, yellow aura background, white speech bubble "Packet loss 99%...這不是夢吧📡", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+13. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, crying while looking at browser SSL warning screen, expired certificate icon, yellow aura background, white speech bubble "憑證昨天就過期了...🔐", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+14. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, staring blankly at terminal with script error, five year old script crashed, yellow aura background, white speech bubble "這腳本跑了五年今天壞了📜", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+15. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, phone vibrating off table with explosion effects, PagerDuty alert icons everywhere, yellow aura background, white speech bubble "PagerDuty 你夠了沒📳", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+16. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, shrugging with open palms, laptop showing green local vs red production, yellow aura background, white speech bubble "我本機是好的啊！💻", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+17. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, sneakily opening terminal with shifty eyes and sweat drop, production server icon, yellow aura background, white speech bubble "不准在Production改...但我只改一行🤫", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+18. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, furiously scribbling version numbers on notepad, confused dizzy expression, yellow aura background, white speech bubble "這是v1.2.3還是v1.3.2🔢", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+19. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, steam rising from head staring at npm error, package boxes everywhere, yellow aura background, white speech bubble "npm install完全不動了📦", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+20. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, sighing deeply at Kubernetes dashboard with insufficient nodes warning, money flying away, yellow aura background, white speech bubble "節點又不夠用了要加錢了💸", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+21. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, face turning pale white with cold sweat drops, backup failure icon, yellow aura background, white speech bubble "備份...備份是什麼😰", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+22. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, looking at empty cron job execution log with wide confused eyes, clock icon stopped, yellow aura background, white speech bubble "Cron job它...它跑去哪了⏰", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+23. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, smashing keyboard in panic, locked out of own server, firewall icon, yellow aura background, white speech bubble "我把自己鎖在外面了🚫", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+24. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, staring at three different cloud dashboards all showing red alerts, AWS GCP Azure logos, yellow aura background, white speech bubble "AWS GCP Azure 全部紅燈☁️", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+25. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, frozen in place mumbling to himself, Redis logo with X, database sweating heavily, yellow aura background, white speech bubble "快取全清了...資料庫你撐得住嗎🔴", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+26. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, overwhelmed looking at overflowing message queue mountain, letters piling up, yellow aura background, white speech bubble "Message Queue塞爆了誰來幫我📬", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+27. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, horrified face discovering YAML indentation error, whole system crashing down, yellow aura background, white speech bubble "YAML縮排錯一格全垮了📋", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+28. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, furiously slamming both fists on desk, DNS resolution error on screen, yellow aura background, white speech bubble "DNS 你在哈囉！！🌐", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+29. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, holding head with both hands looking at traffic graph spiking 10x, yellow aura background, white speech bubble "流量是預估的十倍...完蛋了📈", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+30. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, covering face wailing, zero downtime deployment turned into full downtime, yellow aura background, white speech bubble "Zero downtime變成Full downtime😭", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+31. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, shocked expression with hands on cheeks, S3 bucket public icon with warning, yellow aura background, white speech bubble "我把S3 bucket設成公開了！😱", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+32. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, holding phone with angry customers calling, API 503 error everywhere, yellow aura background, white speech bubble "所有API都503客訴炸鍋了📞", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+33. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, head full of question marks looking at load balancer sending all traffic to one server, yellow aura background, white speech bubble "為什麼流量全打到同一台⚖️", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+34. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, collapsed in chair with relieved exhausted smile, fixed code showing single semicolon, yellow aura background, white speech bubble "花了六小時...改了一個分號😮‍💨", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+35. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, tiredly handing over on-call badge to colleague, bags under eyes, yellow aura background, white speech bubble "今晚你顧吧 我先去睡了😴", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+36. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, blankly staring at empty incident report document, thinking hard with no idea, yellow aura background, white speech bubble "Root cause: 我也不知道📝", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+37. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, rolling eyes dramatically with deadpan expression, small feature requires 4 hour maintenance window, yellow aura background, white speech bubble "小功能要停機四小時你確定小嗎🙄", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+38. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, bittersweet smile with robot icon nearby, automation pipeline running, yellow aura background, white speech bubble "自動化的目的是讓你更優雅地崩潰🤖", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+39. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, jumping up with both fists raised celebrating, green deployment success screen, yellow aura background, white speech bubble "部署成功！！！今晚可以睡覺了🎉", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+40. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, bolting upright in bed with phone alarm blaring, weekend alert, hair messy, yellow aura background, white speech bubble "休假？DevOps沒有休假😤", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+41. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, cool confident standing pose with thumbs up, DevOps tools floating around, yellow aura background, white speech bubble "崩潰是日常，爆炸是文化😎", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
+
+42. Chibi DevOps engineer boy with brown hair and black headphones, wearing dark navy hoodie, confident smiling front-facing portrait, moon and stars background detail, yellow aura background, white speech bubble "凌晨三點的守護者🌙", flat cartoon sticker style, white outline, LINE sticker format, ref.png art style
